@@ -67,8 +67,9 @@
     <Compile Include="Assets\Scripts\DialogueScript\Conversation.cs" />
     <Compile Include="Assets\Scripts\DialogueScript\DialogueLine.cs" />
     <Compile Include="Assets\Scripts\DialogueScript\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\DialogueScript\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\DialogueScript\SceneTrigger.cs" />
     <Compile Include="Assets\Scripts\DialogueScript\Speaker.cs" />
-    <Compile Include="Assets\Scripts\DialogueScript\Tester.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />

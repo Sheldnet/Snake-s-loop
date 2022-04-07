@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 570cc3101276e6a47af05e639116f075, type: 3}
+  m_Name: RopeVsSnake1
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Huh... This is a passageway.
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: ...
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Well, let's slither on in then-
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: OH KIND TRAVELLER!
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: ?!
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: ... Who's here?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: ME!
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: '"You"? Who are you?! Show yourself!'
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: But I'm right here.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Who are you?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: Who do you -think-?
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Am I... am I talking to a rope?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: So you are.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Right... looks like i've been slithering across this blasted desert
+      for longer than i thought.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Seriously though, no more jokes. Tell me who you are.
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: I am Me.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Tsk... alright. What do you want?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: I just want to know where do you think you're going.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: I am heading to the Oasis! You wouldn't happen to know where it is,
+      are you?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: Oh, another one comes looking for the Oasis, huh? Well, yes. I do know
+      where it is.
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Great! So can you tell me where it is now?
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: Are you sure? Many search for the Oasis, but so far no-
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: -Yada yada it's legendary I get it, just tell me where it is.
+  - speaker: {fileID: 11400000, guid: 77a3a5351bb220e44a4e5902535e693b, type: 2}
+    dialogue: '*Sigh* Right. Yeah. Sure. Just continue onwards, can''t miss it.'
+  - speaker: {fileID: 11400000, guid: 47a2c1de0c45cae4e9b0609ca734f779, type: 2}
+    dialogue: Splendid. Thanks, I'm off.

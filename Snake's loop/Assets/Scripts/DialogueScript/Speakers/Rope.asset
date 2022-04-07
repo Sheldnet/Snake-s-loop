@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Rope
   m_EditorClassIdentifier: 
   speakerName: Rope
-  speakerSprite: {fileID: 21300000, guid: bfe3d8f4a9abd3d4ab355bb7cc033b09, type: 3}
+  speakerSprite: {fileID: 21300000, guid: b167f3a43e537214980ea9aea84ceb35, type: 3}
