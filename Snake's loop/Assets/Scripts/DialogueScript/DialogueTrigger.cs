@@ -6,6 +6,7 @@ public class DialogueTrigger : MonoBehaviour
 {
     public Conversation convo;
     public BoxCollider2D trigger;
+    public bool CanMove;
 
     public void StartConvo()
     {

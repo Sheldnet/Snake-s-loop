@@ -8,9 +8,13 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody2D rb;
     public Animator animator;
-
+    public bool CanMove;
     Vector2 movement;
 
+    private void Start()
+    {
+        CanMove = true;
+    }
     void Update()
     {
         movement.x = Input.GetAxisRaw("Horizontal");
@@ -23,6 +27,9 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement * movespeed * Time.fixedDeltaTime);
+        if (CanMove)
+        {
+            rb.MovePosition(rb.position + movement * movespeed * Time.fixedDeltaTime);
+        }
     }
 }
