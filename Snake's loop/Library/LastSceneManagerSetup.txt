@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/\u0421ycle3.unity"
+- path: Assets/Scenes/Oasis.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
