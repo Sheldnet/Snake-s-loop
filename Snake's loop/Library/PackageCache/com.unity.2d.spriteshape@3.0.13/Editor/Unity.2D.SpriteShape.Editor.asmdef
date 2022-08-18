@@ -5,7 +5,11 @@
         "Unity.2D.Common.Editor",
         "Unity.2D.Common.Runtime",
         "Unity.2D.SpriteShape.Runtime",
-        "Unity.2D.Path.Editor"
+        "Unity.2D.Path.Editor",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

@@ -9,7 +9,9 @@
         "Unity.Transforms",
         "Unity.Transforms.Hybrid",
         "Unity.Burst",
-        "Unity.Collections"
+        "Unity.Collections",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

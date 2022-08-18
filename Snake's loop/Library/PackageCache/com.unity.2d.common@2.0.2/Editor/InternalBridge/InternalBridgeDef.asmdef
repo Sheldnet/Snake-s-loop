@@ -1,7 +1,11 @@
 {
     "name": "Unity.InternalAPIEditorBridge.001",
     "references": [
-        "Unity.2D.Sprite.Editor"
+        "Unity.2D.Sprite.Editor",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

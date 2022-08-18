@@ -3,7 +3,9 @@
   "references": [
     "Unity.2D.Common.Runtime",
     "Unity.Mathematics",
-    "Unity.Burst"
+    "Unity.Burst",
+    "UnityEditor.UI",
+    "UnityEngine.UI"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],
